@@ -1,0 +1,22 @@
+# Ignorar uma pasta inteira (coloque a barra no final)
+node_modules/
+dist/
+.next/
+
+# Ignorar arquivos específicos de configuração ou senhas
+.env
+.env.local
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar todos os arquivos com uma extensão específica
+*.log
+*.exe
+
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
