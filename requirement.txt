@@ -1,0 +1,10 @@
+torch>=2.8.0
+numpy>=2.3.0
+pandas>=2.3.0
+rich>=14.0.0
+scikit-learn>=1.7.0
+matplotlib>=3.10.0
+plotly>=6.0.0
+jupyter>=1.1.0
+ipykernel>=6.30.0
+pytest>=8.4.0
