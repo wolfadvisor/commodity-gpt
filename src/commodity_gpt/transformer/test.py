@@ -1,4 +1,4 @@
-from transfrom_block_v1 import TransformerBlock
+from commodity_gpt.transformer.transfrom_block_v1 import TransformerBlock
 import torch
 from rich import print 
 from rich.traceback import install

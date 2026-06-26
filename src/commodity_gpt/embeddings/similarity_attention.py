@@ -5,7 +5,7 @@
 
 import torch
 from torch.nn import functional as F
-from embedding_v1 import similarity
+from commodity_gpt.embeddings.embedding_v1 import similarity
 from rich import print
 from rich.traceback import install
 

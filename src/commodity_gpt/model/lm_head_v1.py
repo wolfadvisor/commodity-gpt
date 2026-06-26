@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from rich import print
 from rich.traceback import install
 
-from create_vocabulary import CreateVocabulary
+from commodity_gpt.model.create_vocabulary import CreateVocabulary
 
 install()
 

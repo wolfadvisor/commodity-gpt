@@ -1,4 +1,4 @@
-from create_vocabulary import create_vocabulary
+from commodity_gpt.tokenizer.tokenizer.create_vocabulary import create_vocabulary
 from rich.traceback import install
 
 install()

@@ -1,10 +1,10 @@
 import torch
 from rich import print
-from vocabulary import CreateVocabulary
+from commodity_gpt.tokenizer.vocabulary import CreateVocabulary
 
 
 text ="""
-    soybean FOB price incresead
+    soybean FOB price incresead high
 """
 
 token, word_to_id, id_to_word = CreateVocabulary(text)

@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from model import CommodityGPT
+from commodit_gpt.model.model import CommodityGPT
 
 from rich.traceback import install
 from rich import print
